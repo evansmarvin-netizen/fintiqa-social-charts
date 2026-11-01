@@ -1,0 +1,27 @@
+{
+ "t": "bars",
+ "k": "M&A Watch",
+ "title": "Three priced fintech deals, led by LSEG and Octus",
+ "sub": "Priced deals announced 7 to 22 October 2026. Prices as reported.",
+ "src": "Source: company announcements, Fintechbits reporting. Tracked by Fintiqa.",
+ "rows": [
+  {
+   "n": "LSEG / Octus",
+   "v": 3535,
+   "r": "$3.535B",
+   "tag": "Cash  |  Agreed 22 Oct  |  Close expected H1 2027"
+  },
+  {
+   "n": "Tradeweb / Trumid",
+   "v": 1970,
+   "r": "about $1.97B",
+   "tag": "Reported 22 Oct"
+  },
+  {
+   "n": "Valley National / Bluevine",
+   "v": 340,
+   "r": "$340M",
+   "tag": "Announced 7 Oct"
+  }
+ ]
+}

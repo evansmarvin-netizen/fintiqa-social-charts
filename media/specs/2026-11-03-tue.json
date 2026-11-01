@@ -1,0 +1,39 @@
+{
+ "t": "bars",
+ "k": "Deal Desk",
+ "title": "Five fintech rounds from $4M to $70M",
+ "sub": "$139M in total, ranked by round size. Rounds covered by Fintechbits, 19 to 30 October.",
+ "src": "Source: company announcements, Fintechbits reporting. Tracked by Fintiqa.",
+ "rows": [
+  {
+   "n": "Nevis",
+   "v": 70,
+   "r": "$70M",
+   "tag": "Series B  |  Led by EQT Ventures"
+  },
+  {
+   "n": "Cognitive Credit",
+   "v": 40,
+   "r": "$40M",
+   "tag": "Led by Summit Partners  |  22 Oct"
+  },
+  {
+   "n": "ScribeUp",
+   "v": 13,
+   "r": "$13M",
+   "tag": "Series A  |  Led by Curql  |  20 Oct"
+  },
+  {
+   "n": "CarbonAI",
+   "v": 12,
+   "r": "$12M",
+   "tag": "Led by Cowboy Ventures"
+  },
+  {
+   "n": "Birch Hill",
+   "v": 4,
+   "r": "$4M",
+   "tag": "Seed  |  Led by Multicoin Capital"
+  }
+ ]
+}

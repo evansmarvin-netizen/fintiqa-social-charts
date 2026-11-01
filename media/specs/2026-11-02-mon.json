@@ -1,0 +1,26 @@
+{
+ "t": "list",
+ "k": "Who it is for",
+ "dk": 1,
+ "title": "Fintech data, in one place",
+ "sub": "Who Fintiqa is built for.",
+ "src": "Fintiqa. Built from Fintechbits reporting.",
+ "items": [
+  [
+   "Founders",
+   "Keep an accurate, sourced company profile that investors can find."
+  ],
+  [
+   "Investors",
+   "Track funding rounds and see who is leading them."
+  ],
+  [
+   "Analysts and consultants",
+   "Cite numbers that link back to their primary source."
+  ],
+  [
+   "Executives",
+   "Watch competitors, partners and market moves in one place."
+  ]
+ ]
+}

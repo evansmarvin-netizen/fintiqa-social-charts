@@ -1,0 +1,30 @@
+{
+ "t": "list",
+ "k": "Investor Lens",
+ "dk": 1,
+ "title": "Who led October's fintech rounds",
+ "sub": "Lead investors in rounds covered by Fintechbits, 11 to 30 October.",
+ "src": "Source: company announcements, Fintechbits reporting. Tracked by Fintiqa.",
+ "items": [
+  [
+   "Dragoneer and Thrive Capital",
+   "Led Ramp's reported $1.85B round."
+  ],
+  [
+   "EQT Ventures",
+   "Led Nevis's $70M Series B, with Schwab joining."
+  ],
+  [
+   "Summit Partners",
+   "Led Cognitive Credit's $40M round, announced 22 October."
+  ],
+  [
+   "Curql",
+   "Led ScribeUp's $13M Series A, announced 20 October."
+  ],
+  [
+   "Cowboy Ventures",
+   "Led CarbonAI's $12M round."
+  ]
+ ]
+}
