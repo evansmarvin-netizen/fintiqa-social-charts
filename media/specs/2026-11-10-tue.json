@@ -1,0 +1,24 @@
+{
+ "t": "hist",
+ "k": "Deal Desk",
+ "title": "Four fintech rounds, $194.1M in total",
+ "sub": "Rounds by size band, announced 29 September to 4 November. Spiko and Pliant make up $170M.",
+ "src": "Source: company announcements, Fintechbits reporting. Tracked by Fintiqa.",
+ "bins": [
+  {
+   "l": "Under $10M",
+   "v": 1,
+   "r": "Elio $5.1M"
+  },
+  {
+   "l": "$10M to $50M",
+   "v": 1,
+   "r": "Navra $19M"
+  },
+  {
+   "l": "$50M and above",
+   "v": 2,
+   "r": "Spiko $90M, Pliant $80M"
+  }
+ ]
+}

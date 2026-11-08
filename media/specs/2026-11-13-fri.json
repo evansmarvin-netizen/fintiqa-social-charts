@@ -1,0 +1,22 @@
+{
+ "t": "bars",
+ "k": "M&A Watch",
+ "dk": 1,
+ "title": "Two priced fintech deals, $350M and $300M",
+ "sub": "Announced 31 October to 2 November. tZERO's figure is a valuation, not a purchase price.",
+ "src": "Source: company announcements, Fintechbits reporting. Tracked by Fintiqa.",
+ "rows": [
+  {
+   "n": "tZERO / FG Imperii",
+   "v": 350,
+   "r": "$350M",
+   "tag": "Pre-money valuation  |  31 Oct"
+  },
+  {
+   "n": "Bilt / LAVA",
+   "v": 300,
+   "r": "$300M",
+   "tag": "Acquisition  |  2 Nov"
+  }
+ ]
+}

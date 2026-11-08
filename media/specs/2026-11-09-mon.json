@@ -1,0 +1,25 @@
+{
+ "t": "list",
+ "k": "Evergreen",
+ "title": "What finance teams ask a fintech vendor",
+ "sub": "From a Fintechbits piece published 28 October. Security comes first on the list.",
+ "src": "Source: company announcements, Fintechbits reporting. Tracked by Fintiqa.",
+ "items": [
+  [
+   "Data security",
+   "Listed first among the criteria by Abhinav Gupta, founder of Profitjets."
+  ],
+  [
+   "SOC 2 report",
+   "Covers security and availability."
+  ],
+  [
+   "SOC 1 and SOC 2",
+   "Most finance teams need both from a fintech vendor, the article says."
+  ],
+  [
+   "Fintiqa security score",
+   "Shows a company's security posture. It rests on evidence."
+  ]
+ ]
+}

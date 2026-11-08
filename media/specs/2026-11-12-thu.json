@@ -1,0 +1,26 @@
+{
+ "t": "list",
+ "k": "Investor Lens",
+ "dk": 1,
+ "title": "Who led the last four fintech rounds",
+ "sub": "Rounds covered by Fintechbits, 29 September to 4 November. No investor led more than one.",
+ "src": "Source: company announcements, Fintechbits reporting. Tracked by Fintiqa.",
+ "items": [
+  [
+   "NEA",
+   "Led Spiko's $90M Series B."
+  ],
+  [
+   "Seaya Nova and Speedinvest",
+   "Co-led Pliant's $80M Series C."
+  ],
+  [
+   "Ribbit",
+   "Led Navra's $19M Series A."
+  ],
+  [
+   "Motive Partners and Social Leverage",
+   "Co-led Elio Mortgage's $5.1M pre-seed."
+  ]
+ ]
+}
