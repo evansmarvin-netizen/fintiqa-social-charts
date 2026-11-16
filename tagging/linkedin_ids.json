@@ -1,0 +1,15 @@
+{
+  "_note": "LinkedIn organization IDs for @-mentions. Mention syntax: @[urn:li:organization:ID|Display Name]. Name must match the LinkedIn display name exactly. Looked up read-only on 16 Nov 2026.",
+  "organizations": {
+    "Imprint": 74615750,
+    "Khosla Ventures": 1580955,
+    "Kalepa": 11194130,
+    "Updata Partners": 19096,
+    "Index Ventures": 14585,
+    "FactSet": 163755,
+    "Fortino Ventures": 109455424,
+    "Revolut": 5356541,
+    "Pliant": 68518090
+  },
+  "not_found": ["Alta", "geniosAI", "Light Frame"]
+}
